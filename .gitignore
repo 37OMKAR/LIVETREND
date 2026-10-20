@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+test_*.py
+debug_*.html
+dump_*.py
+extract_*.py
+find_*.py
+parse_*.py
+analyze_*.py
+.system_generated/
