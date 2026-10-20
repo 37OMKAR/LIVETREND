@@ -7,4 +7,8 @@ extract_*.py
 find_*.py
 parse_*.py
 analyze_*.py
+gen_*.py
+inspect_*.py
+check_*.py
+flatten_*.py
 .system_generated/

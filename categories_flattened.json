@@ -1,0 +1,1258 @@
+[
+  {
+    "id": "0",
+    "name": "\u26a1 All Categories (Master Feed)"
+  },
+  {
+    "id": "3",
+    "name": "\ud83d\udcc1 Arts & Entertainment"
+  },
+  {
+    "id": "184",
+    "name": "   \u2514\u2500 Celebrities & Entertainment News"
+  },
+  {
+    "id": "316",
+    "name": "   \u2514\u2500 Comics & Animation"
+  },
+  {
+    "id": "612",
+    "name": "   \u2514\u2500 Entertainment Industry"
+  },
+  {
+    "id": "569",
+    "name": "   \u2514\u2500 Events & Listings"
+  },
+  {
+    "id": "539",
+    "name": "   \u2514\u2500 Fun & Trivia"
+  },
+  {
+    "id": "182",
+    "name": "   \u2514\u2500 Humor"
+  },
+  {
+    "id": "34",
+    "name": "   \u2514\u2500 Movies"
+  },
+  {
+    "id": "35",
+    "name": "   \u2514\u2500 Music & Audio"
+  },
+  {
+    "id": "33",
+    "name": "   \u2514\u2500 Offbeat"
+  },
+  {
+    "id": "613",
+    "name": "   \u2514\u2500 Online Media"
+  },
+  {
+    "id": "23",
+    "name": "   \u2514\u2500 Performing Arts"
+  },
+  {
+    "id": "36",
+    "name": "   \u2514\u2500 TV & Video"
+  },
+  {
+    "id": "24",
+    "name": "   \u2514\u2500 Visual Art & Design"
+  },
+  {
+    "id": "47",
+    "name": "\ud83d\udcc1 Autos & Vehicles"
+  },
+  {
+    "id": "1190",
+    "name": "   \u2514\u2500 Automotive Industry"
+  },
+  {
+    "id": "1191",
+    "name": "   \u2514\u2500 Bicycles & Accessories"
+  },
+  {
+    "id": "1140",
+    "name": "   \u2514\u2500 Boats & Watercraft"
+  },
+  {
+    "id": "1213",
+    "name": "   \u2514\u2500 Campers & RVs"
+  },
+  {
+    "id": "1013",
+    "name": "   \u2514\u2500 Classic Vehicles"
+  },
+  {
+    "id": "1214",
+    "name": "   \u2514\u2500 Commercial Vehicles"
+  },
+  {
+    "id": "806",
+    "name": "   \u2514\u2500 Custom & Performance Vehicles"
+  },
+  {
+    "id": "810",
+    "name": "   \u2514\u2500 Hybrid & Alternative Vehicles"
+  },
+  {
+    "id": "1317",
+    "name": "   \u2514\u2500 Microcars & City Cars"
+  },
+  {
+    "id": "273",
+    "name": "   \u2514\u2500 Motorcycles"
+  },
+  {
+    "id": "148",
+    "name": "   \u2514\u2500 Off-Road Vehicles"
+  },
+  {
+    "id": "1147",
+    "name": "   \u2514\u2500 Personal Aircraft"
+  },
+  {
+    "id": "1212",
+    "name": "   \u2514\u2500 Scooters & Mopeds"
+  },
+  {
+    "id": "610",
+    "name": "   \u2514\u2500 Trucks & SUVs"
+  },
+  {
+    "id": "815",
+    "name": "   \u2514\u2500 Vehicle Brands"
+  },
+  {
+    "id": "1294",
+    "name": "   \u2514\u2500 Vehicle Codes & Driving Laws"
+  },
+  {
+    "id": "170",
+    "name": "   \u2514\u2500 Vehicle Licensing & Registration"
+  },
+  {
+    "id": "138",
+    "name": "   \u2514\u2500 Vehicle Maintenance"
+  },
+  {
+    "id": "89",
+    "name": "   \u2514\u2500 Vehicle Parts & Accessories"
+  },
+  {
+    "id": "473",
+    "name": "   \u2514\u2500 Vehicle Shopping"
+  },
+  {
+    "id": "803",
+    "name": "   \u2514\u2500 Vehicle Shows"
+  },
+  {
+    "id": "44",
+    "name": "\ud83d\udcc1 Beauty & Fitness"
+  },
+  {
+    "id": "1219",
+    "name": "   \u2514\u2500 Beauty Pageants"
+  },
+  {
+    "id": "239",
+    "name": "   \u2514\u2500 Body Art"
+  },
+  {
+    "id": "1220",
+    "name": "   \u2514\u2500 Cosmetic Procedures"
+  },
+  {
+    "id": "147",
+    "name": "   \u2514\u2500 Cosmetology & Beauty Professionals"
+  },
+  {
+    "id": "143",
+    "name": "   \u2514\u2500 Face & Body Care"
+  },
+  {
+    "id": "185",
+    "name": "   \u2514\u2500 Fashion & Style"
+  },
+  {
+    "id": "94",
+    "name": "   \u2514\u2500 Fitness"
+  },
+  {
+    "id": "146",
+    "name": "   \u2514\u2500 Hair Care"
+  },
+  {
+    "id": "145",
+    "name": "   \u2514\u2500 Spas & Beauty Services"
+  },
+  {
+    "id": "236",
+    "name": "   \u2514\u2500 Weight Loss"
+  },
+  {
+    "id": "22",
+    "name": "\ud83d\udcc1 Books & Literature"
+  },
+  {
+    "id": "690",
+    "name": "   \u2514\u2500 Biographies & Quotations"
+  },
+  {
+    "id": "355",
+    "name": "   \u2514\u2500 Book Retailers"
+  },
+  {
+    "id": "1183",
+    "name": "   \u2514\u2500 Children's Literature"
+  },
+  {
+    "id": "608",
+    "name": "   \u2514\u2500 E-Books"
+  },
+  {
+    "id": "540",
+    "name": "   \u2514\u2500 Fan Fiction"
+  },
+  {
+    "id": "1184",
+    "name": "   \u2514\u2500 Literary Classics"
+  },
+  {
+    "id": "412",
+    "name": "   \u2514\u2500 Magazines"
+  },
+  {
+    "id": "565",
+    "name": "   \u2514\u2500 Poetry"
+  },
+  {
+    "id": "1177",
+    "name": "   \u2514\u2500 Writers Resources"
+  },
+  {
+    "id": "12",
+    "name": "\ud83d\udcc1 Business & Industrial"
+  },
+  {
+    "id": "25",
+    "name": "   \u2514\u2500 Advertising & Marketing"
+  },
+  {
+    "id": "356",
+    "name": "   \u2514\u2500 Aerospace & Defense"
+  },
+  {
+    "id": "46",
+    "name": "   \u2514\u2500 Agriculture & Forestry"
+  },
+  {
+    "id": "1190",
+    "name": "   \u2514\u2500 Automotive Industry"
+  },
+  {
+    "id": "799",
+    "name": "   \u2514\u2500 Business Education"
+  },
+  {
+    "id": "1138",
+    "name": "   \u2514\u2500 Business Finance"
+  },
+  {
+    "id": "784",
+    "name": "   \u2514\u2500 Business News"
+  },
+  {
+    "id": "1159",
+    "name": "   \u2514\u2500 Business Operations"
+  },
+  {
+    "id": "329",
+    "name": "   \u2514\u2500 Business Services"
+  },
+  {
+    "id": "288",
+    "name": "   \u2514\u2500 Chemicals Industry"
+  },
+  {
+    "id": "48",
+    "name": "   \u2514\u2500 Construction & Maintenance"
+  },
+  {
+    "id": "233",
+    "name": "   \u2514\u2500 Energy & Utilities"
+  },
+  {
+    "id": "77",
+    "name": "   \u2514\u2500 Enterprise Technology"
+  },
+  {
+    "id": "612",
+    "name": "   \u2514\u2500 Entertainment Industry"
+  },
+  {
+    "id": "955",
+    "name": "   \u2514\u2500 Hospitality Industry"
+  },
+  {
+    "id": "287",
+    "name": "   \u2514\u2500 Industrial Materials & Equipment"
+  },
+  {
+    "id": "49",
+    "name": "   \u2514\u2500 Manufacturing"
+  },
+  {
+    "id": "606",
+    "name": "   \u2514\u2500 Metals & Mining"
+  },
+  {
+    "id": "255",
+    "name": "   \u2514\u2500 Pharmaceuticals & Biotech"
+  },
+  {
+    "id": "1176",
+    "name": "   \u2514\u2500 Printing & Publishing"
+  },
+  {
+    "id": "1199",
+    "name": "   \u2514\u2500 Professional & Trade Associations"
+  },
+  {
+    "id": "841",
+    "name": "   \u2514\u2500 Retail Trade"
+  },
+  {
+    "id": "551",
+    "name": "   \u2514\u2500 Small Business"
+  },
+  {
+    "id": "566",
+    "name": "   \u2514\u2500 Textiles & Nonwovens"
+  },
+  {
+    "id": "50",
+    "name": "   \u2514\u2500 Transportation & Logistics"
+  },
+  {
+    "id": "5",
+    "name": "\ud83d\udcc1 Computers & Electronics"
+  },
+  {
+    "id": "1300",
+    "name": "   \u2514\u2500 CAD & CAM"
+  },
+  {
+    "id": "30",
+    "name": "   \u2514\u2500 Computer Hardware"
+  },
+  {
+    "id": "314",
+    "name": "   \u2514\u2500 Computer Security"
+  },
+  {
+    "id": "78",
+    "name": "   \u2514\u2500 Consumer Electronics"
+  },
+  {
+    "id": "434",
+    "name": "   \u2514\u2500 Electronics & Electrical"
+  },
+  {
+    "id": "77",
+    "name": "   \u2514\u2500 Enterprise Technology"
+  },
+  {
+    "id": "311",
+    "name": "   \u2514\u2500 Networking"
+  },
+  {
+    "id": "31",
+    "name": "   \u2514\u2500 Programming"
+  },
+  {
+    "id": "32",
+    "name": "   \u2514\u2500 Software"
+  },
+  {
+    "id": "567",
+    "name": "   \u2514\u2500 Technical Support"
+  },
+  {
+    "id": "785",
+    "name": "   \u2514\u2500 Technology News"
+  },
+  {
+    "id": "7",
+    "name": "\ud83d\udcc1 Finance"
+  },
+  {
+    "id": "278",
+    "name": "   \u2514\u2500 Accounting & Auditing"
+  },
+  {
+    "id": "37",
+    "name": "   \u2514\u2500 Banking"
+  },
+  {
+    "id": "279",
+    "name": "   \u2514\u2500 Credit & Lending"
+  },
+  {
+    "id": "814",
+    "name": "   \u2514\u2500 Currencies & Foreign Exchange"
+  },
+  {
+    "id": "903",
+    "name": "   \u2514\u2500 Financial Planning"
+  },
+  {
+    "id": "1282",
+    "name": "   \u2514\u2500 Grants & Financial Assistance"
+  },
+  {
+    "id": "38",
+    "name": "   \u2514\u2500 Insurance"
+  },
+  {
+    "id": "107",
+    "name": "   \u2514\u2500 Investing"
+  },
+  {
+    "id": "619",
+    "name": "   \u2514\u2500 Retirement & Pension"
+  },
+  {
+    "id": "71",
+    "name": "\ud83d\udcc1 Food & Drink"
+  },
+  {
+    "id": "277",
+    "name": "   \u2514\u2500 Alcoholic Beverages"
+  },
+  {
+    "id": "906",
+    "name": "   \u2514\u2500 Candy & Sweets"
+  },
+  {
+    "id": "122",
+    "name": "   \u2514\u2500 Cooking & Recipes"
+  },
+  {
+    "id": "297",
+    "name": "   \u2514\u2500 Culinary Training"
+  },
+  {
+    "id": "121",
+    "name": "   \u2514\u2500 Grocery & Food Retailers"
+  },
+  {
+    "id": "560",
+    "name": "   \u2514\u2500 Non-Alcoholic Beverages"
+  },
+  {
+    "id": "276",
+    "name": "   \u2514\u2500 Restaurants"
+  },
+  {
+    "id": "8",
+    "name": "\ud83d\udcc1 Games"
+  },
+  {
+    "id": "919",
+    "name": "   \u2514\u2500 Arcade & Coin-Op Games"
+  },
+  {
+    "id": "920",
+    "name": "   \u2514\u2500 Board Games"
+  },
+  {
+    "id": "39",
+    "name": "   \u2514\u2500 Card Games"
+  },
+  {
+    "id": "41",
+    "name": "   \u2514\u2500 Computer & Video Games"
+  },
+  {
+    "id": "1290",
+    "name": "   \u2514\u2500 Family-Oriented Games & Activities"
+  },
+  {
+    "id": "105",
+    "name": "   \u2514\u2500 Online Games"
+  },
+  {
+    "id": "936",
+    "name": "   \u2514\u2500 Party Games"
+  },
+  {
+    "id": "937",
+    "name": "   \u2514\u2500 Puzzles & Brainteasers"
+  },
+  {
+    "id": "622",
+    "name": "   \u2514\u2500 Roleplaying Games"
+  },
+  {
+    "id": "938",
+    "name": "   \u2514\u2500 Table Games"
+  },
+  {
+    "id": "45",
+    "name": "\ud83d\udcc1 Health"
+  },
+  {
+    "id": "623",
+    "name": "   \u2514\u2500 Aging & Geriatrics"
+  },
+  {
+    "id": "499",
+    "name": "   \u2514\u2500 Alternative & Natural Medicine"
+  },
+  {
+    "id": "419",
+    "name": "   \u2514\u2500 Health Conditions"
+  },
+  {
+    "id": "254",
+    "name": "   \u2514\u2500 Health Education & Medical Training"
+  },
+  {
+    "id": "252",
+    "name": "   \u2514\u2500 Health Foundations & Medical Research"
+  },
+  {
+    "id": "1253",
+    "name": "   \u2514\u2500 Health News"
+  },
+  {
+    "id": "251",
+    "name": "   \u2514\u2500 Medical Devices & Equipment"
+  },
+  {
+    "id": "256",
+    "name": "   \u2514\u2500 Medical Facilities & Services"
+  },
+  {
+    "id": "253",
+    "name": "   \u2514\u2500 Medical Literature & Resources"
+  },
+  {
+    "id": "636",
+    "name": "   \u2514\u2500 Men's Health"
+  },
+  {
+    "id": "437",
+    "name": "   \u2514\u2500 Mental Health"
+  },
+  {
+    "id": "418",
+    "name": "   \u2514\u2500 Nursing"
+  },
+  {
+    "id": "456",
+    "name": "   \u2514\u2500 Nutrition"
+  },
+  {
+    "id": "245",
+    "name": "   \u2514\u2500 Oral & Dental Care"
+  },
+  {
+    "id": "645",
+    "name": "   \u2514\u2500 Pediatrics"
+  },
+  {
+    "id": "248",
+    "name": "   \u2514\u2500 Pharmacy"
+  },
+  {
+    "id": "947",
+    "name": "   \u2514\u2500 Public Health"
+  },
+  {
+    "id": "195",
+    "name": "   \u2514\u2500 Reproductive Health"
+  },
+  {
+    "id": "257",
+    "name": "   \u2514\u2500 Substance Abuse"
+  },
+  {
+    "id": "246",
+    "name": "   \u2514\u2500 Vision Care"
+  },
+  {
+    "id": "648",
+    "name": "   \u2514\u2500 Women's Health"
+  },
+  {
+    "id": "65",
+    "name": "\ud83d\udcc1 Hobbies & Leisure"
+  },
+  {
+    "id": "64",
+    "name": "   \u2514\u2500 Antiques & Collectibles"
+  },
+  {
+    "id": "1016",
+    "name": "   \u2514\u2500 Bowling"
+  },
+  {
+    "id": "188",
+    "name": "   \u2514\u2500 Clubs & Nightlife"
+  },
+  {
+    "id": "189",
+    "name": "   \u2514\u2500 Clubs & Organizations"
+  },
+  {
+    "id": "1276",
+    "name": "   \u2514\u2500 Contests, Awards & Prizes"
+  },
+  {
+    "id": "284",
+    "name": "   \u2514\u2500 Crafts"
+  },
+  {
+    "id": "458",
+    "name": "   \u2514\u2500 Cycling"
+  },
+  {
+    "id": "688",
+    "name": "   \u2514\u2500 Outdoors"
+  },
+  {
+    "id": "786",
+    "name": "   \u2514\u2500 Paintball"
+  },
+  {
+    "id": "66",
+    "name": "   \u2514\u2500 Pets & Animals"
+  },
+  {
+    "id": "439",
+    "name": "   \u2514\u2500 Photographic & Digital Arts"
+  },
+  {
+    "id": "787",
+    "name": "   \u2514\u2500 Radio Control & Modeling"
+  },
+  {
+    "id": "999",
+    "name": "   \u2514\u2500 Recreational Aviation"
+  },
+  {
+    "id": "541",
+    "name": "   \u2514\u2500 Running & Walking"
+  },
+  {
+    "id": "977",
+    "name": "   \u2514\u2500 Special Occasions"
+  },
+  {
+    "id": "502",
+    "name": "   \u2514\u2500 Subcultures & Niche Interests"
+  },
+  {
+    "id": "1002",
+    "name": "   \u2514\u2500 Water Activities"
+  },
+  {
+    "id": "11",
+    "name": "\ud83d\udcc1 Home & Garden"
+  },
+  {
+    "id": "948",
+    "name": "   \u2514\u2500 Bed & Bath"
+  },
+  {
+    "id": "472",
+    "name": "   \u2514\u2500 Domestic Services"
+  },
+  {
+    "id": "269",
+    "name": "   \u2514\u2500 Gardening & Landscaping"
+  },
+  {
+    "id": "271",
+    "name": "   \u2514\u2500 Home Appliances"
+  },
+  {
+    "id": "270",
+    "name": "   \u2514\u2500 Home Furnishings"
+  },
+  {
+    "id": "158",
+    "name": "   \u2514\u2500 Home Improvement"
+  },
+  {
+    "id": "1348",
+    "name": "   \u2514\u2500 Home Storage & Shelving"
+  },
+  {
+    "id": "137",
+    "name": "   \u2514\u2500 Homemaking & Interior Decor"
+  },
+  {
+    "id": "828",
+    "name": "   \u2514\u2500 HVAC & Climate Control"
+  },
+  {
+    "id": "951",
+    "name": "   \u2514\u2500 Kitchen & Dining"
+  },
+  {
+    "id": "1364",
+    "name": "   \u2514\u2500 Laundry"
+  },
+  {
+    "id": "1372",
+    "name": "   \u2514\u2500 Nursery & Playroom"
+  },
+  {
+    "id": "471",
+    "name": "   \u2514\u2500 Pest Control"
+  },
+  {
+    "id": "952",
+    "name": "   \u2514\u2500 Swimming Pools & Spas"
+  },
+  {
+    "id": "953",
+    "name": "   \u2514\u2500 Yard & Patio"
+  },
+  {
+    "id": "13",
+    "name": "\ud83d\udcc1 Internet & Telecom"
+  },
+  {
+    "id": "385",
+    "name": "   \u2514\u2500 Communications Equipment"
+  },
+  {
+    "id": "394",
+    "name": "   \u2514\u2500 Email & Messaging"
+  },
+  {
+    "id": "382",
+    "name": "   \u2514\u2500 Mobile & Wireless"
+  },
+  {
+    "id": "485",
+    "name": "   \u2514\u2500 Search Engines"
+  },
+  {
+    "id": "383",
+    "name": "   \u2514\u2500 Service Providers"
+  },
+  {
+    "id": "392",
+    "name": "   \u2514\u2500 Teleconferencing"
+  },
+  {
+    "id": "1142",
+    "name": "   \u2514\u2500 Web Apps & Online Tools"
+  },
+  {
+    "id": "301",
+    "name": "   \u2514\u2500 Web Portals"
+  },
+  {
+    "id": "302",
+    "name": "   \u2514\u2500 Web Services"
+  },
+  {
+    "id": "958",
+    "name": "\ud83d\udcc1 Jobs & Education"
+  },
+  {
+    "id": "74",
+    "name": "   \u2514\u2500 Education"
+  },
+  {
+    "id": "60",
+    "name": "   \u2514\u2500 Jobs"
+  },
+  {
+    "id": "19",
+    "name": "\ud83d\udcc1 Law & Government"
+  },
+  {
+    "id": "76",
+    "name": "   \u2514\u2500 Government"
+  },
+  {
+    "id": "75",
+    "name": "   \u2514\u2500 Legal"
+  },
+  {
+    "id": "366",
+    "name": "   \u2514\u2500 Military"
+  },
+  {
+    "id": "166",
+    "name": "   \u2514\u2500 Public Safety"
+  },
+  {
+    "id": "508",
+    "name": "   \u2514\u2500 Social Services"
+  },
+  {
+    "id": "16",
+    "name": "\ud83d\udcc1 News"
+  },
+  {
+    "id": "112",
+    "name": "   \u2514\u2500 Broadcast & Network News"
+  },
+  {
+    "id": "784",
+    "name": "   \u2514\u2500 Business News"
+  },
+  {
+    "id": "184",
+    "name": "   \u2514\u2500 Celebrities & Entertainment News"
+  },
+  {
+    "id": "507",
+    "name": "   \u2514\u2500 Gossip & Tabloid News"
+  },
+  {
+    "id": "1253",
+    "name": "   \u2514\u2500 Health News"
+  },
+  {
+    "id": "1204",
+    "name": "   \u2514\u2500 Journalism & News Industry"
+  },
+  {
+    "id": "572",
+    "name": "   \u2514\u2500 Local News"
+  },
+  {
+    "id": "408",
+    "name": "   \u2514\u2500 Newspapers"
+  },
+  {
+    "id": "396",
+    "name": "   \u2514\u2500 Politics"
+  },
+  {
+    "id": "1077",
+    "name": "   \u2514\u2500 Sports News"
+  },
+  {
+    "id": "785",
+    "name": "   \u2514\u2500 Technology News"
+  },
+  {
+    "id": "63",
+    "name": "   \u2514\u2500 Weather"
+  },
+  {
+    "id": "1209",
+    "name": "   \u2514\u2500 World News"
+  },
+  {
+    "id": "299",
+    "name": "\ud83d\udcc1 Online Communities"
+  },
+  {
+    "id": "504",
+    "name": "   \u2514\u2500 Blogging Resources & Services"
+  },
+  {
+    "id": "55",
+    "name": "   \u2514\u2500 Dating & Personals"
+  },
+  {
+    "id": "321",
+    "name": "   \u2514\u2500 File Sharing & Hosting"
+  },
+  {
+    "id": "191",
+    "name": "   \u2514\u2500 Forum & Chat Providers"
+  },
+  {
+    "id": "43",
+    "name": "   \u2514\u2500 Online Goodies"
+  },
+  {
+    "id": "582",
+    "name": "   \u2514\u2500 Online Journals & Personal Sites"
+  },
+  {
+    "id": "275",
+    "name": "   \u2514\u2500 Photo & Video Sharing"
+  },
+  {
+    "id": "529",
+    "name": "   \u2514\u2500 Social Networks"
+  },
+  {
+    "id": "972",
+    "name": "   \u2514\u2500 Virtual Worlds"
+  },
+  {
+    "id": "14",
+    "name": "\ud83d\udcc1 People & Society"
+  },
+  {
+    "id": "677",
+    "name": "   \u2514\u2500 Disabled & Special Needs"
+  },
+  {
+    "id": "56",
+    "name": "   \u2514\u2500 Ethnic & Identity Groups"
+  },
+  {
+    "id": "1131",
+    "name": "   \u2514\u2500 Family & Relationships"
+  },
+  {
+    "id": "154",
+    "name": "   \u2514\u2500 Kids & Teens"
+  },
+  {
+    "id": "59",
+    "name": "   \u2514\u2500 Religion & Belief"
+  },
+  {
+    "id": "298",
+    "name": "   \u2514\u2500 Seniors & Retirement"
+  },
+  {
+    "id": "54",
+    "name": "   \u2514\u2500 Social Issues & Advocacy"
+  },
+  {
+    "id": "509",
+    "name": "   \u2514\u2500 Social Sciences"
+  },
+  {
+    "id": "502",
+    "name": "   \u2514\u2500 Subcultures & Niche Interests"
+  },
+  {
+    "id": "66",
+    "name": "\ud83d\udcc1 Pets & Animals"
+  },
+  {
+    "id": "882",
+    "name": "   \u2514\u2500 Animal Products & Services"
+  },
+  {
+    "id": "563",
+    "name": "   \u2514\u2500 Pets"
+  },
+  {
+    "id": "119",
+    "name": "   \u2514\u2500 Wildlife"
+  },
+  {
+    "id": "29",
+    "name": "\ud83d\udcc1 Real Estate"
+  },
+  {
+    "id": "378",
+    "name": "   \u2514\u2500 Apartments & Residential Rentals"
+  },
+  {
+    "id": "1178",
+    "name": "   \u2514\u2500 Commercial & Investment Real Estate"
+  },
+  {
+    "id": "687",
+    "name": "   \u2514\u2500 Property Development"
+  },
+  {
+    "id": "463",
+    "name": "   \u2514\u2500 Property Inspections & Appraisals"
+  },
+  {
+    "id": "425",
+    "name": "   \u2514\u2500 Property Management"
+  },
+  {
+    "id": "96",
+    "name": "   \u2514\u2500 Real Estate Agencies"
+  },
+  {
+    "id": "1080",
+    "name": "   \u2514\u2500 Real Estate Listings"
+  },
+  {
+    "id": "1081",
+    "name": "   \u2514\u2500 Timeshares & Vacation Properties"
+  },
+  {
+    "id": "533",
+    "name": "\ud83d\udcc1 Reference"
+  },
+  {
+    "id": "527",
+    "name": "   \u2514\u2500 Directories & Listings"
+  },
+  {
+    "id": "980",
+    "name": "   \u2514\u2500 General Reference"
+  },
+  {
+    "id": "1084",
+    "name": "   \u2514\u2500 Geographic Reference"
+  },
+  {
+    "id": "474",
+    "name": "   \u2514\u2500 Humanities"
+  },
+  {
+    "id": "108",
+    "name": "   \u2514\u2500 Language Resources"
+  },
+  {
+    "id": "375",
+    "name": "   \u2514\u2500 Libraries & Museums"
+  },
+  {
+    "id": "509",
+    "name": "   \u2514\u2500 Social Sciences"
+  },
+  {
+    "id": "1233",
+    "name": "   \u2514\u2500 Technical Reference"
+  },
+  {
+    "id": "174",
+    "name": "\ud83d\udcc1 Science"
+  },
+  {
+    "id": "435",
+    "name": "   \u2514\u2500 Astronomy"
+  },
+  {
+    "id": "440",
+    "name": "   \u2514\u2500 Biological Sciences"
+  },
+  {
+    "id": "505",
+    "name": "   \u2514\u2500 Chemistry"
+  },
+  {
+    "id": "1227",
+    "name": "   \u2514\u2500 Computer Science"
+  },
+  {
+    "id": "1168",
+    "name": "   \u2514\u2500 Earth Sciences"
+  },
+  {
+    "id": "442",
+    "name": "   \u2514\u2500 Ecology & Environment"
+  },
+  {
+    "id": "231",
+    "name": "   \u2514\u2500 Engineering & Technology"
+  },
+  {
+    "id": "436",
+    "name": "   \u2514\u2500 Mathematics"
+  },
+  {
+    "id": "444",
+    "name": "   \u2514\u2500 Physics"
+  },
+  {
+    "id": "445",
+    "name": "   \u2514\u2500 Scientific Equipment"
+  },
+  {
+    "id": "446",
+    "name": "   \u2514\u2500 Scientific Institutions"
+  },
+  {
+    "id": "18",
+    "name": "\ud83d\udcc1 Shopping"
+  },
+  {
+    "id": "64",
+    "name": "   \u2514\u2500 Antiques & Collectibles"
+  },
+  {
+    "id": "68",
+    "name": "   \u2514\u2500 Apparel"
+  },
+  {
+    "id": "292",
+    "name": "   \u2514\u2500 Auctions"
+  },
+  {
+    "id": "61",
+    "name": "   \u2514\u2500 Classifieds"
+  },
+  {
+    "id": "78",
+    "name": "   \u2514\u2500 Consumer Electronics"
+  },
+  {
+    "id": "69",
+    "name": "   \u2514\u2500 Consumer Resources"
+  },
+  {
+    "id": "1143",
+    "name": "   \u2514\u2500 Entertainment Media"
+  },
+  {
+    "id": "70",
+    "name": "   \u2514\u2500 Gifts & Special Event Items"
+  },
+  {
+    "id": "696",
+    "name": "   \u2514\u2500 Luxury Goods"
+  },
+  {
+    "id": "73",
+    "name": "   \u2514\u2500 Mass Merchants & Department Stores"
+  },
+  {
+    "id": "576",
+    "name": "   \u2514\u2500 Photo & Video Services"
+  },
+  {
+    "id": "531",
+    "name": "   \u2514\u2500 Shopping Portals & Search Engines"
+  },
+  {
+    "id": "263",
+    "name": "   \u2514\u2500 Sporting Goods"
+  },
+  {
+    "id": "1210",
+    "name": "   \u2514\u2500 Swap Meets & Outdoor Markets"
+  },
+  {
+    "id": "614",
+    "name": "   \u2514\u2500 Ticket Sales"
+  },
+  {
+    "id": "123",
+    "name": "   \u2514\u2500 Tobacco Products"
+  },
+  {
+    "id": "432",
+    "name": "   \u2514\u2500 Toys"
+  },
+  {
+    "id": "1225",
+    "name": "   \u2514\u2500 Wholesalers & Liquidators"
+  },
+  {
+    "id": "20",
+    "name": "\ud83d\udcc1 Sports"
+  },
+  {
+    "id": "1073",
+    "name": "   \u2514\u2500 College Sports"
+  },
+  {
+    "id": "514",
+    "name": "   \u2514\u2500 Combat Sports"
+  },
+  {
+    "id": "554",
+    "name": "   \u2514\u2500 Extreme Sports"
+  },
+  {
+    "id": "998",
+    "name": "   \u2514\u2500 Fantasy Sports"
+  },
+  {
+    "id": "1000",
+    "name": "   \u2514\u2500 Individual Sports"
+  },
+  {
+    "id": "1273",
+    "name": "   \u2514\u2500 Live Sporting Events"
+  },
+  {
+    "id": "180",
+    "name": "   \u2514\u2500 Motor Sports"
+  },
+  {
+    "id": "263",
+    "name": "   \u2514\u2500 Sporting Goods"
+  },
+  {
+    "id": "1082",
+    "name": "   \u2514\u2500 Sports Coaching & Training"
+  },
+  {
+    "id": "1077",
+    "name": "   \u2514\u2500 Sports News"
+  },
+  {
+    "id": "1001",
+    "name": "   \u2514\u2500 Team Sports"
+  },
+  {
+    "id": "118",
+    "name": "   \u2514\u2500 Water Sports"
+  },
+  {
+    "id": "265",
+    "name": "   \u2514\u2500 Winter Sports"
+  },
+  {
+    "id": "1198",
+    "name": "   \u2514\u2500 World Sports Competitions"
+  },
+  {
+    "id": "67",
+    "name": "\ud83d\udcc1 Travel"
+  },
+  {
+    "id": "203",
+    "name": "   \u2514\u2500 Air Travel"
+  },
+  {
+    "id": "708",
+    "name": "   \u2514\u2500 Bus & Rail"
+  },
+  {
+    "id": "205",
+    "name": "   \u2514\u2500 Car Rental & Taxi Services"
+  },
+  {
+    "id": "1339",
+    "name": "   \u2514\u2500 Carpooling & Ridesharing"
+  },
+  {
+    "id": "206",
+    "name": "   \u2514\u2500 Cruises & Charters"
+  },
+  {
+    "id": "179",
+    "name": "   \u2514\u2500 Hotels & Accommodations"
+  },
+  {
+    "id": "1003",
+    "name": "   \u2514\u2500 Luggage & Travel Accessories"
+  },
+  {
+    "id": "1004",
+    "name": "   \u2514\u2500 Specialty Travel"
+  },
+  {
+    "id": "208",
+    "name": "   \u2514\u2500 Tourist Destinations"
+  },
+  {
+    "id": "1010",
+    "name": "   \u2514\u2500 Travel Agencies & Services"
+  },
+  {
+    "id": "1011",
+    "name": "   \u2514\u2500 Travel Guides & Travelogues"
+  }
+]

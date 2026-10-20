@@ -1,0 +1,758 @@
+[
+  {
+    "code": "WORLD",
+    "name": "\ud83c\udf0d Worldwide / Global",
+    "lat": 20.0,
+    "lon": 0.0
+  },
+  {
+    "code": "IN",
+    "name": "\ud83c\uddee\ud83c\uddf3 India",
+    "lat": 20.5937,
+    "lon": 78.9629
+  },
+  {
+    "code": "US",
+    "name": "\ud83c\uddfa\ud83c\uddf8 United States",
+    "lat": 37.0902,
+    "lon": -95.7129
+  },
+  {
+    "code": "GB",
+    "name": "\ud83c\uddec\ud83c\udde7 United Kingdom",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "code": "AL",
+    "name": "\ud83c\udde6\ud83c\uddf1 Albania",
+    "lat": 41.1533,
+    "lon": 20.1683
+  },
+  {
+    "code": "DZ",
+    "name": "\ud83c\udde9\ud83c\uddff Algeria",
+    "lat": 28.0339,
+    "lon": 1.6596
+  },
+  {
+    "code": "AO",
+    "name": "\ud83c\udde6\ud83c\uddf4 Angola",
+    "lat": -11.2027,
+    "lon": 17.8739
+  },
+  {
+    "code": "AR",
+    "name": "\ud83c\udde6\ud83c\uddf7 Argentina",
+    "lat": -38.4161,
+    "lon": -63.6167
+  },
+  {
+    "code": "AM",
+    "name": "\ud83c\udde6\ud83c\uddf2 Armenia",
+    "lat": 40.0691,
+    "lon": 45.0382
+  },
+  {
+    "code": "AU",
+    "name": "\ud83c\udde6\ud83c\uddfa Australia",
+    "lat": -25.2744,
+    "lon": 133.7751
+  },
+  {
+    "code": "AT",
+    "name": "\ud83c\udde6\ud83c\uddf9 Austria",
+    "lat": 47.5162,
+    "lon": 14.5501
+  },
+  {
+    "code": "AZ",
+    "name": "\ud83c\udde6\ud83c\uddff Azerbaijan",
+    "lat": 40.1431,
+    "lon": 47.5769
+  },
+  {
+    "code": "BH",
+    "name": "\ud83c\udde7\ud83c\udded Bahrain",
+    "lat": 26.0667,
+    "lon": 50.5577
+  },
+  {
+    "code": "BD",
+    "name": "\ud83c\udde7\ud83c\udde9 Bangladesh",
+    "lat": 23.685,
+    "lon": 90.3563
+  },
+  {
+    "code": "BY",
+    "name": "\ud83c\udde7\ud83c\uddfe Belarus",
+    "lat": 53.7098,
+    "lon": 27.9534
+  },
+  {
+    "code": "BE",
+    "name": "\ud83c\udde7\ud83c\uddea Belgium",
+    "lat": 50.5039,
+    "lon": 4.4699
+  },
+  {
+    "code": "BJ",
+    "name": "\ud83c\udde7\ud83c\uddef Benin",
+    "lat": 9.3077,
+    "lon": 2.3158
+  },
+  {
+    "code": "BO",
+    "name": "\ud83c\udde7\ud83c\uddf4 Bolivia",
+    "lat": -16.2902,
+    "lon": -63.5887
+  },
+  {
+    "code": "BA",
+    "name": "\ud83c\udde7\ud83c\udde6 Bosnia & Herzegovina",
+    "lat": 43.9159,
+    "lon": 17.6791
+  },
+  {
+    "code": "BR",
+    "name": "\ud83c\udde7\ud83c\uddf7 Brazil",
+    "lat": -14.235,
+    "lon": -51.9253
+  },
+  {
+    "code": "BG",
+    "name": "\ud83c\udde7\ud83c\uddec Bulgaria",
+    "lat": 42.7339,
+    "lon": 25.4858
+  },
+  {
+    "code": "BF",
+    "name": "\ud83c\udde7\ud83c\uddeb Burkina Faso",
+    "lat": 12.2383,
+    "lon": -1.5616
+  },
+  {
+    "code": "KH",
+    "name": "\ud83c\uddf0\ud83c\udded Cambodia",
+    "lat": 12.5657,
+    "lon": 104.991
+  },
+  {
+    "code": "CM",
+    "name": "\ud83c\udde8\ud83c\uddf2 Cameroon",
+    "lat": 7.3697,
+    "lon": 12.3547
+  },
+  {
+    "code": "CA",
+    "name": "\ud83c\udde8\ud83c\udde6 Canada",
+    "lat": 56.1304,
+    "lon": -106.3468
+  },
+  {
+    "code": "CL",
+    "name": "\ud83c\udde8\ud83c\uddf1 Chile",
+    "lat": -35.6751,
+    "lon": -71.543
+  },
+  {
+    "code": "CO",
+    "name": "\ud83c\udde8\ud83c\uddf4 Colombia",
+    "lat": 4.5709,
+    "lon": -74.2973
+  },
+  {
+    "code": "CD",
+    "name": "\ud83c\udde8\ud83c\udde9 Congo - Kinshasa",
+    "lat": -4.0383,
+    "lon": 21.7587
+  },
+  {
+    "code": "CR",
+    "name": "\ud83c\udde8\ud83c\uddf7 Costa Rica",
+    "lat": 9.7489,
+    "lon": -83.7534
+  },
+  {
+    "code": "CI",
+    "name": "\ud83c\udde8\ud83c\uddee C\u00f4te d\u2019Ivoire",
+    "lat": 7.54,
+    "lon": -5.5471
+  },
+  {
+    "code": "HR",
+    "name": "\ud83c\udded\ud83c\uddf7 Croatia",
+    "lat": 45.1,
+    "lon": 15.2
+  },
+  {
+    "code": "CU",
+    "name": "\ud83c\udde8\ud83c\uddfa Cuba",
+    "lat": 21.5218,
+    "lon": -77.7812
+  },
+  {
+    "code": "CY",
+    "name": "\ud83c\udde8\ud83c\uddfe Cyprus",
+    "lat": 35.1264,
+    "lon": 33.4299
+  },
+  {
+    "code": "CZ",
+    "name": "\ud83c\udde8\ud83c\uddff Czechia",
+    "lat": 49.8175,
+    "lon": 15.473
+  },
+  {
+    "code": "DK",
+    "name": "\ud83c\udde9\ud83c\uddf0 Denmark",
+    "lat": 56.2639,
+    "lon": 9.5018
+  },
+  {
+    "code": "DO",
+    "name": "\ud83c\udde9\ud83c\uddf4 Dominican Republic",
+    "lat": 18.7357,
+    "lon": -70.1627
+  },
+  {
+    "code": "EC",
+    "name": "\ud83c\uddea\ud83c\udde8 Ecuador",
+    "lat": -1.8312,
+    "lon": -78.1834
+  },
+  {
+    "code": "EG",
+    "name": "\ud83c\uddea\ud83c\uddec Egypt",
+    "lat": 26.8206,
+    "lon": 30.8025
+  },
+  {
+    "code": "SV",
+    "name": "\ud83c\uddf8\ud83c\uddfb El Salvador",
+    "lat": 13.7942,
+    "lon": -88.8965
+  },
+  {
+    "code": "EE",
+    "name": "\ud83c\uddea\ud83c\uddea Estonia",
+    "lat": 58.5953,
+    "lon": 25.0136
+  },
+  {
+    "code": "ET",
+    "name": "\ud83c\uddea\ud83c\uddf9 Ethiopia",
+    "lat": 9.145,
+    "lon": 40.4897
+  },
+  {
+    "code": "FI",
+    "name": "\ud83c\uddeb\ud83c\uddee Finland",
+    "lat": 61.9241,
+    "lon": 25.7482
+  },
+  {
+    "code": "FR",
+    "name": "\ud83c\uddeb\ud83c\uddf7 France",
+    "lat": 46.2276,
+    "lon": 2.2137
+  },
+  {
+    "code": "GE",
+    "name": "\ud83c\uddec\ud83c\uddea Georgia",
+    "lat": 42.3154,
+    "lon": 43.3569
+  },
+  {
+    "code": "DE",
+    "name": "\ud83c\udde9\ud83c\uddea Germany",
+    "lat": 51.1657,
+    "lon": 10.4515
+  },
+  {
+    "code": "GH",
+    "name": "\ud83c\uddec\ud83c\udded Ghana",
+    "lat": 7.9465,
+    "lon": -1.0232
+  },
+  {
+    "code": "GR",
+    "name": "\ud83c\uddec\ud83c\uddf7 Greece",
+    "lat": 39.0742,
+    "lon": 21.8243
+  },
+  {
+    "code": "GT",
+    "name": "\ud83c\uddec\ud83c\uddf9 Guatemala",
+    "lat": 15.7835,
+    "lon": -90.2308
+  },
+  {
+    "code": "HT",
+    "name": "\ud83c\udded\ud83c\uddf9 Haiti",
+    "lat": 18.9712,
+    "lon": -72.2852
+  },
+  {
+    "code": "HN",
+    "name": "\ud83c\udded\ud83c\uddf3 Honduras",
+    "lat": 15.2,
+    "lon": -86.2419
+  },
+  {
+    "code": "HK",
+    "name": "\ud83c\udded\ud83c\uddf0 Hong Kong",
+    "lat": 22.3193,
+    "lon": 114.1694
+  },
+  {
+    "code": "HU",
+    "name": "\ud83c\udded\ud83c\uddfa Hungary",
+    "lat": 47.1625,
+    "lon": 19.5033
+  },
+  {
+    "code": "ID",
+    "name": "\ud83c\uddee\ud83c\udde9 Indonesia",
+    "lat": -0.7893,
+    "lon": 113.9213
+  },
+  {
+    "code": "IR",
+    "name": "\ud83c\uddee\ud83c\uddf7 Iran",
+    "lat": 32.4279,
+    "lon": 53.688
+  },
+  {
+    "code": "IQ",
+    "name": "\ud83c\uddee\ud83c\uddf6 Iraq",
+    "lat": 33.2232,
+    "lon": 43.6793
+  },
+  {
+    "code": "IE",
+    "name": "\ud83c\uddee\ud83c\uddea Ireland",
+    "lat": 53.1424,
+    "lon": -7.6921
+  },
+  {
+    "code": "IL",
+    "name": "\ud83c\uddee\ud83c\uddf1 Israel",
+    "lat": 31.0461,
+    "lon": 34.8516
+  },
+  {
+    "code": "IT",
+    "name": "\ud83c\uddee\ud83c\uddf9 Italy",
+    "lat": 41.8719,
+    "lon": 12.5674
+  },
+  {
+    "code": "JM",
+    "name": "\ud83c\uddef\ud83c\uddf2 Jamaica",
+    "lat": 18.1096,
+    "lon": -77.2975
+  },
+  {
+    "code": "JP",
+    "name": "\ud83c\uddef\ud83c\uddf5 Japan",
+    "lat": 36.2048,
+    "lon": 138.2529
+  },
+  {
+    "code": "JO",
+    "name": "\ud83c\uddef\ud83c\uddf4 Jordan",
+    "lat": 30.5852,
+    "lon": 36.2384
+  },
+  {
+    "code": "KZ",
+    "name": "\ud83c\uddf0\ud83c\uddff Kazakhstan",
+    "lat": 48.0196,
+    "lon": 66.9237
+  },
+  {
+    "code": "KE",
+    "name": "\ud83c\uddf0\ud83c\uddea Kenya",
+    "lat": -0.0236,
+    "lon": 37.9062
+  },
+  {
+    "code": "KW",
+    "name": "\ud83c\uddf0\ud83c\uddfc Kuwait",
+    "lat": 29.3117,
+    "lon": 47.4818
+  },
+  {
+    "code": "KG",
+    "name": "\ud83c\uddf0\ud83c\uddec Kyrgyzstan",
+    "lat": 41.2044,
+    "lon": 74.7661
+  },
+  {
+    "code": "LV",
+    "name": "\ud83c\uddf1\ud83c\uddfb Latvia",
+    "lat": 56.8796,
+    "lon": 24.6032
+  },
+  {
+    "code": "LB",
+    "name": "\ud83c\uddf1\ud83c\udde7 Lebanon",
+    "lat": 33.8547,
+    "lon": 35.8623
+  },
+  {
+    "code": "LY",
+    "name": "\ud83c\uddf1\ud83c\uddfe Libya",
+    "lat": 26.3351,
+    "lon": 17.2283
+  },
+  {
+    "code": "LT",
+    "name": "\ud83c\uddf1\ud83c\uddf9 Lithuania",
+    "lat": 55.1694,
+    "lon": 23.8813
+  },
+  {
+    "code": "MY",
+    "name": "\ud83c\uddf2\ud83c\uddfe Malaysia",
+    "lat": 4.2105,
+    "lon": 101.9758
+  },
+  {
+    "code": "ML",
+    "name": "\ud83c\uddf2\ud83c\uddf1 Mali",
+    "lat": 17.5707,
+    "lon": -3.9962
+  },
+  {
+    "code": "MX",
+    "name": "\ud83c\uddf2\ud83c\uddfd Mexico",
+    "lat": 23.6345,
+    "lon": -102.5528
+  },
+  {
+    "code": "MD",
+    "name": "\ud83c\uddf2\ud83c\udde9 Moldova",
+    "lat": 47.4116,
+    "lon": 28.3699
+  },
+  {
+    "code": "MA",
+    "name": "\ud83c\uddf2\ud83c\udde6 Morocco",
+    "lat": 31.7917,
+    "lon": -7.0926
+  },
+  {
+    "code": "MZ",
+    "name": "\ud83c\uddf2\ud83c\uddff Mozambique",
+    "lat": -18.6657,
+    "lon": 35.5296
+  },
+  {
+    "code": "MM",
+    "name": "\ud83c\uddf2\ud83c\uddf2 Myanmar (Burma)",
+    "lat": 21.9162,
+    "lon": 95.956
+  },
+  {
+    "code": "NP",
+    "name": "\ud83c\uddf3\ud83c\uddf5 Nepal",
+    "lat": 28.3949,
+    "lon": 84.124
+  },
+  {
+    "code": "NL",
+    "name": "\ud83c\uddf3\ud83c\uddf1 Netherlands",
+    "lat": 52.1326,
+    "lon": 5.2913
+  },
+  {
+    "code": "NZ",
+    "name": "\ud83c\uddf3\ud83c\uddff New Zealand",
+    "lat": -40.9006,
+    "lon": 174.886
+  },
+  {
+    "code": "NI",
+    "name": "\ud83c\uddf3\ud83c\uddee Nicaragua",
+    "lat": 12.8654,
+    "lon": -85.2072
+  },
+  {
+    "code": "NG",
+    "name": "\ud83c\uddf3\ud83c\uddec Nigeria",
+    "lat": 9.082,
+    "lon": 8.6753
+  },
+  {
+    "code": "MK",
+    "name": "\ud83c\uddf2\ud83c\uddf0 North Macedonia",
+    "lat": 41.6086,
+    "lon": 21.7453
+  },
+  {
+    "code": "NO",
+    "name": "\ud83c\uddf3\ud83c\uddf4 Norway",
+    "lat": 60.472,
+    "lon": 8.4689
+  },
+  {
+    "code": "OM",
+    "name": "\ud83c\uddf4\ud83c\uddf2 Oman",
+    "lat": 21.5126,
+    "lon": 55.9233
+  },
+  {
+    "code": "PK",
+    "name": "\ud83c\uddf5\ud83c\uddf0 Pakistan",
+    "lat": 30.3753,
+    "lon": 69.3451
+  },
+  {
+    "code": "PS",
+    "name": "\ud83c\uddf5\ud83c\uddf8 Palestine",
+    "lat": 31.9522,
+    "lon": 35.2332
+  },
+  {
+    "code": "PA",
+    "name": "\ud83c\uddf5\ud83c\udde6 Panama",
+    "lat": 8.5379,
+    "lon": -80.7821
+  },
+  {
+    "code": "PY",
+    "name": "\ud83c\uddf5\ud83c\uddfe Paraguay",
+    "lat": -23.4425,
+    "lon": -58.4438
+  },
+  {
+    "code": "PE",
+    "name": "\ud83c\uddf5\ud83c\uddea Peru",
+    "lat": -9.1899,
+    "lon": -75.0152
+  },
+  {
+    "code": "PH",
+    "name": "\ud83c\uddf5\ud83c\udded Philippines",
+    "lat": 12.8797,
+    "lon": 121.774
+  },
+  {
+    "code": "PL",
+    "name": "\ud83c\uddf5\ud83c\uddf1 Poland",
+    "lat": 51.9194,
+    "lon": 19.1451
+  },
+  {
+    "code": "PT",
+    "name": "\ud83c\uddf5\ud83c\uddf9 Portugal",
+    "lat": 39.3999,
+    "lon": -8.2245
+  },
+  {
+    "code": "PR",
+    "name": "\ud83c\uddf5\ud83c\uddf7 Puerto Rico",
+    "lat": 18.2208,
+    "lon": -66.5901
+  },
+  {
+    "code": "QA",
+    "name": "\ud83c\uddf6\ud83c\udde6 Qatar",
+    "lat": 25.3548,
+    "lon": 51.1839
+  },
+  {
+    "code": "RO",
+    "name": "\ud83c\uddf7\ud83c\uddf4 Romania",
+    "lat": 45.9432,
+    "lon": 24.9668
+  },
+  {
+    "code": "RU",
+    "name": "\ud83c\uddf7\ud83c\uddfa Russia",
+    "lat": 61.524,
+    "lon": 105.3188
+  },
+  {
+    "code": "SA",
+    "name": "\ud83c\uddf8\ud83c\udde6 Saudi Arabia",
+    "lat": 23.8859,
+    "lon": 45.0792
+  },
+  {
+    "code": "SN",
+    "name": "\ud83c\uddf8\ud83c\uddf3 Senegal",
+    "lat": 14.4974,
+    "lon": -14.4524
+  },
+  {
+    "code": "RS",
+    "name": "\ud83c\uddf7\ud83c\uddf8 Serbia",
+    "lat": 44.0165,
+    "lon": 21.0059
+  },
+  {
+    "code": "SG",
+    "name": "\ud83c\uddf8\ud83c\uddec Singapore",
+    "lat": 1.3521,
+    "lon": 103.8198
+  },
+  {
+    "code": "SK",
+    "name": "\ud83c\uddf8\ud83c\uddf0 Slovakia",
+    "lat": 48.669,
+    "lon": 19.699
+  },
+  {
+    "code": "SI",
+    "name": "\ud83c\uddf8\ud83c\uddee Slovenia",
+    "lat": 46.1512,
+    "lon": 14.9955
+  },
+  {
+    "code": "ZA",
+    "name": "\ud83c\uddff\ud83c\udde6 South Africa",
+    "lat": -30.5595,
+    "lon": 22.9375
+  },
+  {
+    "code": "KR",
+    "name": "\ud83c\uddf0\ud83c\uddf7 South Korea",
+    "lat": 35.9078,
+    "lon": 127.7669
+  },
+  {
+    "code": "ES",
+    "name": "\ud83c\uddea\ud83c\uddf8 Spain",
+    "lat": 40.4637,
+    "lon": -3.7492
+  },
+  {
+    "code": "LK",
+    "name": "\ud83c\uddf1\ud83c\uddf0 Sri Lanka",
+    "lat": 7.8731,
+    "lon": 80.7718
+  },
+  {
+    "code": "SE",
+    "name": "\ud83c\uddf8\ud83c\uddea Sweden",
+    "lat": 60.1282,
+    "lon": 18.6435
+  },
+  {
+    "code": "CH",
+    "name": "\ud83c\udde8\ud83c\udded Switzerland",
+    "lat": 46.8182,
+    "lon": 8.2275
+  },
+  {
+    "code": "SY",
+    "name": "\ud83c\uddf8\ud83c\uddfe Syria",
+    "lat": 34.8021,
+    "lon": 38.9968
+  },
+  {
+    "code": "TW",
+    "name": "\ud83c\uddf9\ud83c\uddfc Taiwan",
+    "lat": 23.6978,
+    "lon": 120.9605
+  },
+  {
+    "code": "TZ",
+    "name": "\ud83c\uddf9\ud83c\uddff Tanzania",
+    "lat": -6.369,
+    "lon": 34.8888
+  },
+  {
+    "code": "TH",
+    "name": "\ud83c\uddf9\ud83c\udded Thailand",
+    "lat": 15.87,
+    "lon": 100.9925
+  },
+  {
+    "code": "TT",
+    "name": "\ud83c\uddf9\ud83c\uddf9 Trinidad & Tobago",
+    "lat": 10.6918,
+    "lon": -61.2225
+  },
+  {
+    "code": "TN",
+    "name": "\ud83c\uddf9\ud83c\uddf3 Tunisia",
+    "lat": 33.8869,
+    "lon": 9.5375
+  },
+  {
+    "code": "TR",
+    "name": "\ud83c\uddf9\ud83c\uddf7 T\u00fcrkiye",
+    "lat": 38.9637,
+    "lon": 35.2433
+  },
+  {
+    "code": "TM",
+    "name": "\ud83c\uddf9\ud83c\uddf2 Turkmenistan",
+    "lat": 38.9697,
+    "lon": 59.5563
+  },
+  {
+    "code": "UG",
+    "name": "\ud83c\uddfa\ud83c\uddec Uganda",
+    "lat": 1.3733,
+    "lon": 32.2903
+  },
+  {
+    "code": "UA",
+    "name": "\ud83c\uddfa\ud83c\udde6 Ukraine",
+    "lat": 48.3794,
+    "lon": 31.1656
+  },
+  {
+    "code": "AE",
+    "name": "\ud83c\udde6\ud83c\uddea United Arab Emirates",
+    "lat": 23.4241,
+    "lon": 53.8478
+  },
+  {
+    "code": "UY",
+    "name": "\ud83c\uddfa\ud83c\uddfe Uruguay",
+    "lat": -32.5228,
+    "lon": -55.7658
+  },
+  {
+    "code": "UZ",
+    "name": "\ud83c\uddfa\ud83c\uddff Uzbekistan",
+    "lat": 41.3775,
+    "lon": 64.5853
+  },
+  {
+    "code": "VE",
+    "name": "\ud83c\uddfb\ud83c\uddea Venezuela",
+    "lat": 6.4238,
+    "lon": -66.5897
+  },
+  {
+    "code": "VN",
+    "name": "\ud83c\uddfb\ud83c\uddf3 Vietnam",
+    "lat": 14.0583,
+    "lon": 108.2772
+  },
+  {
+    "code": "YE",
+    "name": "\ud83c\uddfe\ud83c\uddea Yemen",
+    "lat": 15.5527,
+    "lon": 48.5164
+  },
+  {
+    "code": "ZM",
+    "name": "\ud83c\uddff\ud83c\uddf2 Zambia",
+    "lat": -13.1339,
+    "lon": 27.8493
+  },
+  {
+    "code": "ZW",
+    "name": "\ud83c\uddff\ud83c\uddfc Zimbabwe",
+    "lat": -19.0154,
+    "lon": 29.1549
+  }
+]
